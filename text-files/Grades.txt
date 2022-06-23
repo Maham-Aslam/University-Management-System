@@ -1,0 +1,17 @@
+Student_ID/Student_Name/Grade
+
+ Course_Name = Programming Fundamentals
+		1801		Muhammad Akram		A
+
+		1802		Umar Nadeem		B
+
+		1803		Zainab Irfan		C
+
+		1804		Hassan Afzal		D
+
+		1805		Ayesha Farooq		F
+
+		1806		Zubair Anwar		A
+
+		1807		Maham Aslam		A
+

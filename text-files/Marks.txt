@@ -1,0 +1,158 @@
+ Course_Name = Programming Fundamentals
+
+						1801	Muhammad Akram
+
+		Quiz_1
+				obtained Marks = 1		Total Marks = 10 
+
+
+
+		Assignment_1
+				obtained Marks = 11		Total Marks = 50 
+
+		Quiz_2
+				obtained Marks = 2		Total Marks = 10 
+
+
+
+		Assignment_2
+				obtained Marks = 22		Total Marks = 50 
+
+		Quiz_3
+				obtained Marks = 3		Total Marks = 10 
+
+
+
+		Assignment_3
+				obtained Marks = 33		Total Marks = 50 
+
+						1802	Umar Nadeem
+
+		Quiz_1
+				obtained Marks = 3		Total Marks = 10 
+
+
+
+		Assignment_1
+				obtained Marks = 33		Total Marks = 50 
+
+		Quiz_2
+				obtained Marks = 2		Total Marks = 10 
+
+
+
+		Assignment_2
+				obtained Marks = 22		Total Marks = 50 
+
+		Quiz_3
+				obtained Marks = 1		Total Marks = 10 
+
+
+
+		Assignment_3
+				obtained Marks = 11		Total Marks = 50 
+
+						1803	Zainab Irfan
+
+		Quiz_1
+				obtained Marks = 4		Total Marks = 10 
+
+
+
+		Assignment_1
+				obtained Marks = 44		Total Marks = 50 
+
+		Quiz_2
+				obtained Marks = 5		Total Marks = 10 
+
+
+
+		Assignment_2
+				obtained Marks = 45		Total Marks = 50 
+
+		Quiz_3
+				obtained Marks = 6		Total Marks = 10 
+
+
+
+		Assignment_3
+				obtained Marks = 46		Total Marks = 50 
+
+						1804	Hassan Afzal
+
+		Quiz_1
+				obtained Marks = 6		Total Marks = 10 
+
+
+
+		Assignment_1
+				obtained Marks = 46		Total Marks = 50 
+
+		Quiz_2
+				obtained Marks = 5		Total Marks = 10 
+
+
+
+		Assignment_2
+				obtained Marks = 45		Total Marks = 50 
+
+		Quiz_3
+				obtained Marks = 4		Total Marks = 10 
+
+
+
+		Assignment_3
+				obtained Marks = 44		Total Marks = 50 
+
+						1805	Ayesha Farooq
+
+		Quiz_1
+				obtained Marks = 7		Total Marks = 10 
+
+
+
+		Assignment_1
+				obtained Marks = 47		Total Marks = 50 
+
+		Quiz_2
+				obtained Marks = 8		Total Marks = 10 
+
+
+
+		Assignment_2
+				obtained Marks = 48		Total Marks = 50 
+
+		Quiz_3
+				obtained Marks = 9		Total Marks = 10 
+
+
+
+		Assignment_3
+				obtained Marks = 49		Total Marks = 50 
+
+						1806	Zubair Anwar
+
+		Quiz_1
+				obtained Marks = 9		Total Marks = 10 
+
+
+
+		Assignment_1
+				obtained Marks = 49		Total Marks = 50 
+
+		Quiz_2
+				obtained Marks = 8		Total Marks = 10 
+
+
+
+		Assignment_2
+				obtained Marks = 48		Total Marks = 50 
+
+		Quiz_3
+				obtained Marks = 7		Total Marks = 10 
+
+
+
+		Assignment_3
+				obtained Marks = 47		Total Marks = 50 
+

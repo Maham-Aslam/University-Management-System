@@ -1,0 +1,98 @@
+Heavy University Lahore
+2
+Computer Science
+8
+CS100,Programming Fundamentals
+S200,Data Structures
+S300,Artificial Intelligence
+S302,Design and Analysis of Algorithms
+S150,English Composition and Comprehension
+T119,Calculus and Analytical Geometry
+E229,Comp. Organization and Assembly Lang
+T206,Probability and Statistics
+5
+222,Zubair Farooq
+333,Shakeel Zafar
+444,Bismillah Jan
+555,Zafar Iqbal
+666,Fakhar Imam
+1
+256,Irfan Majeed
+30
+1801,Muhammad Akram
+1802,Umar Nadeem
+1803,Zainab Irfan
+1804,Hassan Afzal
+1805,Ayesha Farooq 
+1806,Zubair Anwar
+4159,Tahir Ali	
+4222,Muhammad Ali	
+4241,Waleed Amjad	
+4290,Burhan Tahir
+4401,Hassan Sohail
+5867,Saad Ali	
+5868,Nisar Haider
+4014,Neeha Batool
+4019,Abubakar Javed
+4023,Saad Sultan	
+4028,Hassaan Elahi
+4048,Kamal Subhani
+4050,Saad Ahmed
+4068,Usman Usman
+4083,Zaid Tariq
+4084,Abdullah Siddiqui	
+4091,Saif ullah
+4102,Hashir Baig
+4137,Usama  Jawad
+4149,Haris Muneer
+4164,Humna Gul
+4166,Talha Zubair
+4184,Suleman Uzair
+4186,Hammad Farooq
+Electrical Engineering
+8
+EE117,Applied Physics
+E229,Comp. Organization and Assembly Lang
+E400,Electromagnetic Theory
+E500,Multivariable Calculus
+S150,English Composition and Comprehension
+T119,Calculus and Analytical Geometry
+S114,Human Ethics and Behavior
+S118,Psychology
+4
+111,Bashir Ahmed
+777,Salman Mubarak
+888,Kashif Naveed
+999,Daud Khan
+1
+512,Sohail Ahmad
+29
+1861,Mohsin Iqbal 
+1862,Amna Khan
+1863,Ali Raza
+1864,Rana Saud
+4193,Faizan Ahmed
+4204,Tarviha Fatima
+4205,Haziq Farooq
+4210,Saboor Elahi
+4221,Muhammad Taha
+4228,Taha Shahid
+4237,Zaki Ahmad	
+4248,Usama Akram		
+4254,Hamza Majeed	
+4255,Jamal Butt		
+4257,Sharjeel Mansha		
+4261,Suleman Khalid		
+4262,Rimsha Rimsha		
+4264,Ali Nuaman		
+4265,Noor Ahmed		
+4281,Hamza Shariq		
+4292,Farhan Shoukat	
+4308,Arham Fatima		
+4314,Khadija Asim		
+4321,Muhammad Awais		
+4322,Abdullah Khan		
+4323,Hassaan Maajid		
+4327,Hanan Mehmood		
+4352,Osama Osama	
+5449,Anas Javed	
